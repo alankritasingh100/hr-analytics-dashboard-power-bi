@@ -37,11 +37,11 @@ Using **Power BI**, this project provides actionable insights into the factors a
 
 ## 🎓 Project Learnings
 Through this project, the following outcomes were achieved:
-- ✅ Identified **key factors** driving attrition.  
-- ✅ Improved the **hiring process** through data-driven insights.  
-- ✅ Enhanced **employee experience** with targeted retention strategies.  
-- ✅ Increased **workforce productivity** by addressing critical gaps.  
-- ✅ Built **trust with employees** by improving HR transparency.  
+- Identified **key factors** driving attrition.  
+- Improved the **hiring process** through data-driven insights.  
+- Enhanced **employee experience** with targeted retention strategies.  
+- Increased **workforce productivity** by addressing critical gaps.  
+- Built **trust with employees** by improving HR transparency.  
 
 ---
 
