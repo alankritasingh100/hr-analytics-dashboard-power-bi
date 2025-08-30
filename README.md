@@ -52,4 +52,6 @@ Through this project, the following outcomes were achieved:
 
 ---
 
+## Dashboard Preview  
 
+![Dashboard Preview](https://github.com/alankritasingh100/hr-analytics-dashboard-power-bi/blob/main/HR%20ANALYTICS%20DASHBOARD.png)
