@@ -14,5 +14,6 @@ Scope of the Project -
 - Remove Null values Columns and Rows.
 - Filter Duplicated Values.
 - Find and replace error Values.
-- 
--   
+- From Transform Tab, Detect data type in Power BI.
+- And finally after data cleaning, do close and apply.
+
