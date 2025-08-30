@@ -17,3 +17,10 @@ Scope of the Project -
 - From Transform Tab, Detect data type in Power BI.
 - And finally after data cleaning, do close and apply.
 
+## Project Learning - 
+- Identified key factors to reduce attrition.
+- Improved the hiring process.
+- Improved employee experience.
+- Made workforce more productive.
+- Gained employee trust.
+
